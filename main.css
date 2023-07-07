@@ -1,0 +1,24 @@
+body {
+    background-image: url('bg.jpg');
+    justify-content: center;
+    text-align: center;
+    padding: 5vh;
+}
+
+.submit-form {
+    padding-bottom: 10vh;
+}
+
+.list-group {
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+.list-group-item {
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+.card h1 {
+    margin-top: 8px;
+}
